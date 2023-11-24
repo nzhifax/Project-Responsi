@@ -1,0 +1,44 @@
+body {
+    background: #deebec;
+    font-family: 'EB Garamond', serif;
+  }
+.banner{
+    background: no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: white;
+    background-color: #deebec;
+}
+
+.lingkaran{
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #cbe3ef;
+    background-color: #254e7a;
+}
+.lingkaran i{
+    position: relative; 
+    top: 38px;
+}
+.clearfix{
+    clear: both;
+}
+
+.jumbotron {
+    background-color: #7C97C6;
+    color: #fff;
+    padding: 100px 0;
+    text-align: center;
+  }
+
+  .jumbotron h1 {
+    font-size: 48px;
+  }
+
+  .jumbotron p {
+    font-size: 18px;
+  }
