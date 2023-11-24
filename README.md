@@ -13,19 +13,20 @@ RESPONSI PGWEB - NAZHIFA KHOIRUNNISA
 
 ## Tampilan Produk
 1. **Antarmuka Utama:**
-   ("assets/prd/satu.png")
-    ("assets/prd/dua.png")
-     ("assets/prd/tiga.png")
-      ("assets/prd/empat.png")
-       ("assets/prd/lima.png")
+   <img src="assets/prd/satu.png">
+   <img src="assets/prd/dua.png">
+   <img src="assets/prd/tiga.png">
+   <img src="assets/prd/empat.png">
+   <img src="assets/prd/lima.png">
+
 
 2. **Peta Interaktif:**
-    ("assets/prd/enam.png")
+   <img src="assets/prd/enam.png">
 
 2. **Form:**
-    ("assets/prd/tujuh.png")
+   <img src="assets/prd/tujuh.png">
 
-    
+
 ## Profil
 
 *Nama : Nazhifa Khoirunnisa.* 
